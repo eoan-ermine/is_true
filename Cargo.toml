@@ -1,0 +1,17 @@
+[package]
+name = "is_true"
+description = "Is it true?"
+version = "0.1.0"
+authors = ["PatriotRossii <patriotrossii2019@mail.ru>"]
+edition = "2018"
+
+license = "MIT"
+repository = "https://github.com/PatriotRossii/is_true/"
+documentation = "https://docs.rs/is_true/"
+readme = "README.md"
+
+categories = ["development-tools"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
