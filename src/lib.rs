@@ -32,6 +32,7 @@ macro_rules! is_true {
 }
 
 /// Function checks if argument is true
+#[inline]
 pub fn is_true(arg: bool) -> bool {
     arg
 }
